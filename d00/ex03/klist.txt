@@ -1,0 +1,5 @@
+Credentials cache: API:02E1E929-C46F-4981-9621-0AAF9993E366
+        Principal: aezzeddi@42.US.ORG
+
+  Issued                Expires               Principal
+Apr  4 23:35:16 2017  Apr  5 09:35:16 2017  krbtgt/42.US.ORG@42.US.ORG
