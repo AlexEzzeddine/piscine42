@@ -1,0 +1,1 @@
+ldapsearch -Q "(cn=*bon*)" dn |grep -c "^dn*"
